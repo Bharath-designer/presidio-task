@@ -1,0 +1,19 @@
+1. Comparing Azure Data factory and Talend
+ADF:
+- cloud based data integration service, used to create data-driven workflows for orchastrating data movement and transformation
+
+Talend:
+- open source data integration platform, provides a suite of tools for ETL, data preparation
+
+
+2. Scenarios to use ETL tools
+- used to extract data from various sources tranform it into a format for analysis and loading into a data warehouse
+- moving data from one system to another 
+
+
+3. Similarities
+- ETL - where data is tranformed and loaded to target
+- ELT - used for scenarios involving Big data
+
+4. SSIS
+- SQL Server Integration Services designed for data integration, tranformation and workflow automation
